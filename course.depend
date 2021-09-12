@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1622581836 source:c:\users\timur\desktop\projects\course\main.cpp
+	<iostream>
+	<Trip.h>
+	<Schedule.h>
+	<stdlib.h>
+	<conio.h>
+	<iomanip>
+
+1622580517 c:\users\timur\desktop\projects\course\include\trip.h
+	<iostream>
+	<fstream>
+
+1622582718 source:c:\users\timur\desktop\projects\course\src\trip.cpp
+	"Trip.h"
+	<iomanip>
+
+1622582846 source:c:\users\timur\desktop\projects\course\src\schedule.cpp
+	"Schedule.h"
+	<iomanip>
+
+1622581021 c:\users\timur\desktop\projects\course\include\schedule.h
+	<Trip.h>
+
